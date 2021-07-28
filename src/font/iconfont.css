@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 1889936 */
+  src: url('iconfont.woff2?t=1626484027339') format('woff2'),
+       url('iconfont.woff?t=1626484027339') format('woff'),
+       url('iconfont.ttf?t=1626484027339') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconuserinfo-anquan:before {
+  content: "\e618";
+}
+
+.iconwupinfanghangshenqingliucheng:before {
+  content: "\e64f";
+}
+
+.icongaizhangshenqingliucheng-feihetongleizhizaojiaofu:before {
+  content: "\e65a";
+}
+
+.iconcontract_filed_line:before {
+  content: "\e667";
+}
+
+.iconcustomer_list_line:before {
+  content: "\e668";
+}
+
+.iconinvoice_statistics_line:before {
+  content: "\e6fb";
+}
+
+.iconsystem_line:before {
+  content: "\e708";
+}
+
+.iconwakuangzhongxinzhidushenpiliucheng:before {
+  content: "\e66e";
+}
+
+.iconshichanshenqingliucheng:before {
+  content: "\e678";
+}
+
